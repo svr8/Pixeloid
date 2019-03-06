@@ -1,0 +1,5 @@
+opencv-python
+numpy
+stl
+mpl_toolkits
+matplotlib
