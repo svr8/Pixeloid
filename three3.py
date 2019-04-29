@@ -89,7 +89,7 @@ def plotSurface(x, y):
 x = []
 y = []
 z = []
-file_name = "plot_test4.txt"
+file_name = "plot_disc.txt"
 file_handle = open(file_name)
 for line in file_handle:
   data = line.split(" ")
